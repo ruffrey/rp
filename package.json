@@ -10,10 +10,19 @@
     "type": "git",
     "url": "https://github.com/ruffrey/rp"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "jeffhparrish@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ruffrey/rp/issues"
   },
-  "homepage": "https://github.com/ruffrey/rp"
+  "homepage": "https://github.com/ruffrey/rp",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-copy": "0.0.2",
+    "gulp-jade": "^0.10.0",
+    "gulp-load-plugins": "^0.7.1",
+    "run-sequence": "^1.0.2"
+  }
 }
